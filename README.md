@@ -1,7 +1,9 @@
-#Fly Fisher Ipsum
-##A fly fishing lorem ipsum generator.
+# Fly Fisher Ipsum
 
-###
+## A fly fishing lorem ipsum generator.
 
-##Shoutout:
+- Becuase this is needed in the world.
+
+## Shoutout:
+
 Thanks to [@robertcoopercode](https://github.com/robertcoopercode/stranger-ipsum/tree/v1.0.1)
