@@ -1,4 +1,4 @@
-import loremIpsum from "./generator.js";
+const loremIpsum = require("./generator.js");
 const querystring = require("querystring");
 const fs = require("fs");
 
