@@ -32,3 +32,5 @@ router.post("/", (req, res) => {
     res.end();
   });
 });
+
+module.exports = router;
